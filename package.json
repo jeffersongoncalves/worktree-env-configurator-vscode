@@ -120,10 +120,10 @@
     "@eslint/js": "^10.0.1",
     "@types/node": "^26.6.6",
     "@types/vscode": "^1.145.0",
-    "@typescript-eslint/eslint-plugin": "^8.72.2",
-    "@typescript-eslint/parser": "^8.67.0",
+    "@typescript-eslint/eslint-plugin": "^8.73.0",
+    "@typescript-eslint/parser": "^8.73.0",
     "esbuild": "^0.28.2",
-    "eslint": "^10.14.0",
+    "eslint": "^10.15.0",
     "typescript": "~6.0.3"
   },
   "allowScripts": {
